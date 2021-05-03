@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "15d77b4b3867523f",
+    "type": "split",
+    "children": [
+      {
+        "id": "336897ae11af7a16",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "add1c5d045fd5282",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d23ba20749bbb83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f26782885374b110",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bdefef53b1ac9249",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eed2ba8f5a254f92",
+    "type": "split",
+    "children": [
+      {
+        "id": "a862aed69d13b495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85b371484101aae2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "336897ae11af7a16",
+  "lastOpenFiles": [
+    "渗透测试/文件上传/文件上传常见绕过.md",
+    "渗透测试/渗透测试Tips/Github收集Tips.md",
+    "渗透测试/信息收集/Web常规渗透信息收集基操.md",
+    "渗透测试/文件上传/Untitled.md",
+    "渗透测试/Webshell/WWW权限写入Webshell免杀.md",
+    "Google语法.png",
+    "渗透测试/渗透测试Tips/Untitled.md",
+    "渗透测试/Webshell/Untitled.md",
+    "玩转 Obsidian  打造知识循环利器 - 少数派.md",
+    "Pasted image 20210426101121.png"
+  ]
+}
