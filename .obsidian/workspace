@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "70310be0888ad907",
+        "id": "936c57367fed53e0",
         "type": "leaf",
+        "dimension": 85.31818181818181,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "渗透测试/Webshell/Webshell网站管理工具.md",
-            "mode": "preview"
+            "file": "编程语言/PHP/PHP CGI 解析漏洞.md",
+            "mode": "source"
           }
-        }
+        },
+        "group": "4b694163c26e928f"
+      },
+      {
+        "id": "2325a69a2f90fa27",
+        "type": "leaf",
+        "dimension": 14.681818181818182,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "编程语言/PHP/PHP CGI 解析漏洞.md"
+          }
+        },
+        "group": "4b694163c26e928f"
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "渗透测试/Webshell/Webshell网站管理工具.md",
+                "file": "编程语言/PHP/PHP CGI 解析漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +90,27 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a3e89b99e814ba3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编程语言/PHP/PHP CGI 解析漏洞.md"
+              }
+            }
+          },
+          {
+            "id": "aef0e8a68fb53069",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -86,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "70310be0888ad907",
+  "active": "936c57367fed53e0",
   "lastOpenFiles": [
-    "渗透测试/Webshell/Webshell网站管理工具.md",
-    "渗透测试/Webshell/WWW权限写入Webshell免杀.md",
-    "渗透测试/Webshell/Webshell网站管理工具Untitled.md",
-    "渗透测试/Webshell/Untitled.md",
+    "编程语言/PHP/PHP CGI 解析漏洞.md",
+    "编程语言/PHP/PHP伪协议.md",
+    "编程语言/PHP/PHP文件包含常见函数.md",
+    "渗透测试/文件包含漏洞/文件包含漏洞.md",
     "渗透测试/文件上传/文件上传常见绕过.md",
-    "渗透测试/渗透测试Tips/Github收集Tips.md",
     "渗透测试/信息收集/Web常规渗透信息收集基操.md",
-    "渗透测试/文件上传/Untitled.md",
-    "Google语法.png",
-    "渗透测试/渗透测试Tips/Untitled.md"
+    "渗透测试/SQL注入/SQL注入绕过.md",
+    "渗透测试/Webshell/WWW权限写入Webshell免杀.md",
+    "渗透测试/Webshell/Webshell网站管理工具.md",
+    "编程语言/PHP/Untitled.md"
   ]
 }

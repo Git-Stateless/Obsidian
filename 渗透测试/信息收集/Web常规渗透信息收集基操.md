@@ -1,3 +1,5 @@
+# 信息收集
+
 ## 收集域名信息-Whois查询
 
 爱站工具网	[站长工具_whois查询工具_爱站网](https://whois.aizhan.com/)
@@ -28,8 +30,7 @@ VirusTotal	[VirusTotal](https://www.virustotal.com/gui/)
 ##  收集敏感信息
 
 Google语法：
-
-![[Google语法.png]]
+![](%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/%E9%99%84%E4%BB%B6/Google%E8%AF%AD%E6%B3%95.png)
 
 网站指纹识别
 
