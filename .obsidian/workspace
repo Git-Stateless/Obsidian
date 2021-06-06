@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "936c57367fed53e0",
+        "id": "237251a53b8de0d0",
         "type": "leaf",
-        "dimension": 85.31818181818181,
+        "dimension": 78.04545454545455,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "编程语言/PHP/PHP CGI 解析漏洞.md",
+            "file": "渗透测试/命令执行漏洞/PHP命令执行漏洞.md",
             "mode": "source"
           }
         },
-        "group": "4b694163c26e928f"
+        "group": "a25a14692268afb6"
       },
       {
-        "id": "2325a69a2f90fa27",
+        "id": "d2f5180d754e9014",
         "type": "leaf",
-        "dimension": 14.681818181818182,
+        "dimension": 21.954545454545453,
         "state": {
           "type": "outline",
           "state": {
-            "file": "编程语言/PHP/PHP CGI 解析漏洞.md"
+            "file": "渗透测试/命令执行漏洞/PHP命令执行漏洞.md"
           }
         },
-        "group": "4b694163c26e928f"
+        "group": "a25a14692268afb6"
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程语言/PHP/PHP CGI 解析漏洞.md",
+                "file": "渗透测试/命令执行漏洞/PHP命令执行漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程语言/PHP/PHP CGI 解析漏洞.md"
+                "file": "渗透测试/命令执行漏洞/PHP命令执行漏洞.md"
               }
             }
           },
@@ -121,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "936c57367fed53e0",
+  "active": "237251a53b8de0d0",
   "lastOpenFiles": [
-    "编程语言/PHP/PHP CGI 解析漏洞.md",
-    "编程语言/PHP/PHP伪协议.md",
-    "编程语言/PHP/PHP文件包含常见函数.md",
-    "渗透测试/文件包含漏洞/文件包含漏洞.md",
-    "渗透测试/文件上传/文件上传常见绕过.md",
-    "渗透测试/信息收集/Web常规渗透信息收集基操.md",
-    "渗透测试/SQL注入/SQL注入绕过.md",
-    "渗透测试/Webshell/WWW权限写入Webshell免杀.md",
-    "渗透测试/Webshell/Webshell网站管理工具.md",
-    "编程语言/PHP/Untitled.md"
+    "渗透测试/命令执行漏洞/PHP命令执行漏洞.md",
+    "渗透测试/命令执行漏洞/Untitled.md",
+    "操作系统/Linux/Linux连接符.md",
+    "操作系统/Windows/Windows连接符.md",
+    "操作系统/Linux/Untitled.md",
+    "操作系统/Windows/连接符.md",
+    "操作系统/Windows/Untitled.md",
+    "编程语言/PHP/PHP命令执行函数.md",
+    "编程语言/PHP/Untitled.md",
+    "编程语言/PHP/PHP CGI 解析漏洞.md"
   ]
 }
