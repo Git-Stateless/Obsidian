@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "渗透测试/中间件漏洞/Apache.md",
+            "file": "渗透测试/渗透测试Tips/Github收集Tips.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,48 @@
       {
         "id": "d2f5180d754e9014",
         "type": "leaf",
-        "dimension": 12.33086545825887,
+        "dimension": 6.165432729129435,
         "state": {
           "type": "outline",
           "state": {
-            "file": "渗透测试/中间件漏洞/Apache.md"
+            "file": "渗透测试/渗透测试Tips/Github收集Tips.md"
+          }
+        },
+        "group": "a25a14692268afb6"
+      },
+      {
+        "id": "a0126d8db7714d95",
+        "type": "leaf",
+        "dimension": 6.165432729129435,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "渗透测试/渗透测试Tips/Github收集Tips.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
           }
         },
         "group": "a25a14692268afb6"
@@ -82,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "渗透测试/中间件漏洞/Apache.md",
+                "file": "渗透测试/渗透测试Tips/Github收集Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "渗透测试/中间件漏洞/Apache.md"
+                "file": "渗透测试/渗透测试Tips/Github收集Tips.md"
               }
             }
           },
@@ -123,15 +160,15 @@
   },
   "active": "237251a53b8de0d0",
   "lastOpenFiles": [
-    "渗透测试/中间件漏洞/Apache.md",
-    "渗透测试/中间件漏洞/IIS.md",
-    "渗透测试/中间件漏洞/Nginx.md",
-    "渗透测试/中间件漏洞/Tomcat.md",
-    "渗透测试/中间件漏洞/Untitled.md",
+    "渗透测试/渗透测试Tips/Github收集Tips.md",
     "渗透测试/代码执行漏洞/代码执行漏洞.md",
-    "编程开发/PHP/PHP代码执行函数.md",
-    "编程开发/PHP/PHP文件包含常见函数.md",
     "渗透测试/命令执行漏洞/命令执行漏洞.md",
-    "渗透测试/代码执行漏洞/Untitled.md"
+    "渗透测试/文件包含漏洞/文件包含漏洞.md",
+    "渗透测试/文件上传/文件上传常见绕过.md",
+    "渗透测试/Webshell/WWW权限写入Webshell免杀.md",
+    "渗透测试/Webshell/Webshell网站管理工具.md",
+    "渗透测试/SQL注入/SQL注入绕过.md",
+    "渗透测试/中间件漏洞/IIS.md",
+    "渗透测试/中间件漏洞/Apache.md"
   ]
 }

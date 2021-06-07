@@ -57,3 +57,26 @@ Http.sys是Microsoft Windows处理HTTP请求的内核驱动程序。HTTP.sys会�
 漏洞修复：
 1. 官方补丁：https://support.microsoft.com/zh-cn/kb/3042553
 2. 临时解决办法，禁用IIS内核缓存。但可能会造成IIS性能下降
+
+
+## Nginx解析漏洞
+
+目前Nginx的解析漏洞利用方式与IIS基本一致。一个是对于任意文件名，在后面添加/任意文件名．php的解析漏洞，比如原本文件名是test.jpg，可以添加为test.jpg/x.php进行解析攻击。还有一种是针对低版本的Nginx，可以在任意文件名后面添加%00.php进行解析攻击。
+
+下面几个版本都存在此问题：
+
+● Nginx 0.5.*
+● Nginx 0.6.*
+● Nginx 0.7 <= 0.7.65
+● Nginx 0.8 <= 0.8.37
+
+任意文件名/任意文件名．php这个漏洞其实是出现自[PHP CGI 解析漏洞](PHP%20CGI%20解析漏洞.md)php-cgi的漏洞，与Nginx自身无关，这点与IIS 7.0/7.5与PHP配合使用时解析漏洞产生原理一样。
+
+修复方式：
+1. 修改 PHP 配置文件，设置 cgi.fix_pathinfo=0 。修改完后保存配置文件，然后重启PHP-FPM（FastCGI进程管理器）
+2. 在Nginx配置文件中添加以下配置。当匹配到类似 `test.jpg/x.php` 的 URL时会返回403错误代码。修改完成，重启Nginx。
+```
+if ($fastcgi_script_name ~\..*\/.*php) {
+	return 403;
+}
+```
